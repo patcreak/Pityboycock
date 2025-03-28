@@ -1,4 +1,4 @@
-# OBS Plugin Template
+    cmake -B /home/runner/work/Pityboycock/Pityboycock/build -DCMAKE_CXX_COMPILER=g++ -DCMAKE_C_COMPILER=gcc -DCMAKE_BUILD_TYPE=Release -S /home/runner/work/Pityboycock/Pityboycockcmake -B /home/runner/work/Pityboycock/Pityboycock/build -DCMAKE_CXX_COMPILER=g++ -DCMAKE_C_COMPILER=gcc -DCMAKE_BUILD_TYPE=Release -S /home/runner/work/Pityboycock/Pityboycockcmake -B /home/runner/work/Pityboycock/Pityboycock/build -DCMAKE_CXX_COMPILER=g++ -DCMAKE_C_COMPILER=gcc -DCMAKE_BUILD_TYPE=Release -S /home/runner/work/Pityboycock/Pityboycockcmake -B /home/runner/work/Pityboycock/Pityboycock/build -DCMAKE_CXX_COMPILER=g++ -DCMAKE_C_COMPILER=gcc -DCMAKE_BUILD_TYPE=Release -S /home/runner/work/Pityboycock/Pityboycock# OBS Plugin Template
 
 ## Introduction
 
